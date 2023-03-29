@@ -30,7 +30,10 @@ h2 {
   padding-left: 80px;
   margin-right: 250px;
   border-radius:15px;
-  border-left-width: thick
+  border-left-width: thick;
+  
+  border-top-right-radius: 2em;
+  border-bottom-left-radius: 2em;
 }
 
 html{font-style: italic;
