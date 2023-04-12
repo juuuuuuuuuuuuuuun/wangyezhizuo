@@ -51,7 +51,8 @@ html{font-style: italic;
   background-image:   url(images/cocktail.gif);
 	background-repeat:   repeat-x;
 	text-align:   center;
-  line-height: 1
+  line-height: 1;
+  float: right;
 }
 
 .elixirs h2{color: black;}

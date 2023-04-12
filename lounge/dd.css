@@ -1,0 +1,17 @@
+.left {
+	margin-right: 10px;
+}
+
+.right {
+	margin-left: 20px;
+}
+
+.ruler {
+	display: inline-block;
+	width: 30px;
+}
+
+.float-block {
+	width: 20px;
+	float: right;
+}
