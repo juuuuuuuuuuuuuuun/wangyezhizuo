@@ -1,27 +1,15 @@
 p {
     color: rgb(0, 255, 157);
 }
-h1, h2 {
-        font-family: arial;
-        color: grey;
-}
-h1 {
-    font-family: Arial;
-    color: grey;
-}
 
-h2 {
-    font-family: Arial;
-    color: grey;
-}
-html {
-    font-size: 16px; /* 设置根元素字体大小 */ 
-}
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+    color: #5a1216;
+    color: rgb(65, 55, 23);
 
-h1 {
-    font-size: 2rem; /* 相对于根元素字体大小的 2 倍 */
 }
-
-p {
-    font-size: 1rem;
-}
+a{line-through}
