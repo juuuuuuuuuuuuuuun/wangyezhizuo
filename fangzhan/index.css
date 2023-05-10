@@ -1,0 +1,50 @@
+body{
+  padding: 0;
+  margin: 0;
+
+}
+
+.grayy {
+  background: gray;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+}
+
+.con {
+width: 80%;
+}
+
+.baikuang {
+  top: 0;
+  position: relative;
+  height: 100px;
+  width: 150vw;
+  background-color: aliceblue;
+}
+
+
+ 
+
+.so {
+  text-align: center;
+}
+
+.co {
+    display: inline-block;
+    padding:  1.5em;
+    position: relative;
+}
+.co::before {
+    content: "[";
+    position: absolute;
+    left: 0;
+    font-weight: 100;
+}
+
+.co::after {
+    content: "]";
+    position: absolute;
+    right: 0;
+    font-weight: 100;
+}
